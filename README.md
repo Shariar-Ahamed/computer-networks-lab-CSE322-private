@@ -73,6 +73,6 @@ This is a private academic repository created for learning purposes only.
 
 ## 👨‍💻 Author
 
-**Shahriar Ahmmed Ripon**  
+**Shariar Ahamed Ripon**  
 Undergraduate Student of Computer Science & Engineering  
 Daffodil International University  
