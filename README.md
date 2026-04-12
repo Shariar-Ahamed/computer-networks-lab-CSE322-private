@@ -27,9 +27,7 @@ It includes:
 
 ## 📎 Tools Download
 
-Cisco Packet Tracer Download:  
-
-**[Google Drive➚](https://drive.google.com/file/d/1wshE_aNfFLU__WpSP9Zw5RAtBuNzgNq3/view?usp=drivesdk)**
+Cisco Packet Tracer Download: **[Google Drive➚](https://drive.google.com/file/d/1wshE_aNfFLU__WpSP9Zw5RAtBuNzgNq3/view?usp=drivesdk)**
 
 ---
 
