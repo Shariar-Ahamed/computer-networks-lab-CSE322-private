@@ -25,9 +25,11 @@ It includes:
 
 ---
 
-## 📎 Tools Download
+## 📎 Cisco Packet Tracer Download
 
-Cisco Packet Tracer Download: **[Google Drive➚](https://drive.google.com/file/d/1wshE_aNfFLU__WpSP9Zw5RAtBuNzgNq3/view?usp=drivesdk)**
+- Alternative Download (Google Drive): **[Cisco Packet Tracer 6.0.1 for Windows (No Tutorials).exe](https://drive.google.com/file/d/1wshE_aNfFLU__WpSP9Zw5RAtBuNzgNq3/view?usp=drivesdk)**
+
+> ⚠️ This version does not include tutorial files.
 
 ---
 
